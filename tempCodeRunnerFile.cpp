@@ -1,0 +1,1 @@
+string reset("\033[0m");
