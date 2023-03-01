@@ -1,8 +1,8 @@
-																																Grocery Market Application
+																													Grocery Market Application
 																																
 This is a terminal-based application written in C++ that simulates a grocery market. The application provides a basic interface for users to perform various tasks such as adding items to their cart, checking out, and paying using various methods. The application also includes a basic login system that allows users to create an account and log in to access the application's features.
 
-																																					Usage
+																													Usage
 																																					
 When the application starts, the user is prompted to either create an account or log in. The login system supports three types of users: admin, manager, and regular user. Each user has a unique login screen, and the application uses polymorphism to implement different payment methods based on the user's login type.
 
